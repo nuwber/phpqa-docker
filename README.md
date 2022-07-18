@@ -3,7 +3,6 @@
 https://github.com/nuwber/phpqa-docker/pkgs/container/phpqa-docker
 
 ## Usage
-
 ### GitHub Actions
 
 ```code-check.yml
